@@ -1,7 +1,5 @@
 import java.util.*;
 
- // Compiler version JDK 11.0.2
-
  class BubbleSort
  {
    public static void printArray(int arr[]){
